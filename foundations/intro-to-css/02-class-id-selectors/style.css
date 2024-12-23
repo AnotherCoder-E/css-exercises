@@ -2,3 +2,18 @@
     background-color: pink;
     font-family: 'Verdena', 'DejaVu Sans', 'sans-serif';
 }
+
+#id-1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#id-2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
