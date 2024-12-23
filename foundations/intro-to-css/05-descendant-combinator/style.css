@@ -1,0 +1,33 @@
+/* VERSION 1 - type selectors descendant combinator */
+
+/* div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* VERSION 2 - class selectors descendant combinator */
+
+/* .container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+/* VERSION 3 - class and type selectors descendant combinator & vice versa */
+
+/* .container p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+} */
+
+div .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
